@@ -1,4 +1,4 @@
-# 🍷 Sistema de Gerenciamento de Adega
+# 🍷 Sistema de Gerenciamento de Adega JV
 
 Um sistema web completo para gerenciar sua adega com controle de estoque, vendas, caixa e relatórios financeiros.
 
